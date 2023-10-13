@@ -1,0 +1,14 @@
+C:\cygwin64\home\nq9093\CodeSpace\ASP.NET\BuildDotNetAppWithC#\DotNetDebugging\bin\Release\net7.0\DotNetDebugging.exe
+C:\cygwin64\home\nq9093\CodeSpace\ASP.NET\BuildDotNetAppWithC#\DotNetDebugging\bin\Release\net7.0\DotNetDebugging.deps.json
+C:\cygwin64\home\nq9093\CodeSpace\ASP.NET\BuildDotNetAppWithC#\DotNetDebugging\bin\Release\net7.0\DotNetDebugging.runtimeconfig.json
+C:\cygwin64\home\nq9093\CodeSpace\ASP.NET\BuildDotNetAppWithC#\DotNetDebugging\bin\Release\net7.0\DotNetDebugging.dll
+C:\cygwin64\home\nq9093\CodeSpace\ASP.NET\BuildDotNetAppWithC#\DotNetDebugging\bin\Release\net7.0\DotNetDebugging.pdb
+C:\cygwin64\home\nq9093\CodeSpace\ASP.NET\BuildDotNetAppWithC#\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\cygwin64\home\nq9093\CodeSpace\ASP.NET\BuildDotNetAppWithC#\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\cygwin64\home\nq9093\CodeSpace\ASP.NET\BuildDotNetAppWithC#\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.AssemblyInfo.cs
+C:\cygwin64\home\nq9093\CodeSpace\ASP.NET\BuildDotNetAppWithC#\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\cygwin64\home\nq9093\CodeSpace\ASP.NET\BuildDotNetAppWithC#\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.dll
+C:\cygwin64\home\nq9093\CodeSpace\ASP.NET\BuildDotNetAppWithC#\DotNetDebugging\obj\Release\net7.0\refint\DotNetDebugging.dll
+C:\cygwin64\home\nq9093\CodeSpace\ASP.NET\BuildDotNetAppWithC#\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.pdb
+C:\cygwin64\home\nq9093\CodeSpace\ASP.NET\BuildDotNetAppWithC#\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.genruntimeconfig.cache
+C:\cygwin64\home\nq9093\CodeSpace\ASP.NET\BuildDotNetAppWithC#\DotNetDebugging\obj\Release\net7.0\ref\DotNetDebugging.dll
